@@ -1,10 +1,10 @@
 # Hi 👋, I'm Somya Vats  
-B.Tech CSE Student | Exploring AI, ML & Full-Stack Development | Visual Content Creator  
+B.Tech CSE Student | Specializing in Data Science | Visual Content Creator  
 
 ---
 
 ## 💫 About Me:
-🔭 I’m currently working on expanding **Agrolytics** with satellite data, NDVI, and deep learning  
+🔭 I’m currently working on expanding exploring AI, ML & Full-Stack Development
 🌱 I’m currently learning the MERN Stack, Android Studio, and Advanced Cybersecurity  
 💬 Ask me about Python, AI/ML projects, Canva magic, and how to win hackathons  
 
