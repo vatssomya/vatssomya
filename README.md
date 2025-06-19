@@ -6,7 +6,7 @@ B.Tech CSE Student | Specializing in Data Science | Visual Content Creator
 ## 💫 About Me:
 🔭 I’m currently working on expanding exploring AI, ML & Full-Stack Development
 🌱 I’m currently learning the MERN Stack, Android Studio, and Advanced Cybersecurity  
-💬 Ask me about Python, AI/ML projects, Canva magic, and how to win hackathons  
+💬 Ask me about Python, AI/ML projects, Canva magic, and team up for hackathons  
 
 ---
 
@@ -66,12 +66,6 @@ _Tech: Godot, GDScript_
 - 🌌 Top 10 Rank – International Astronomy & Space Olympiad (IASO)  
 - 🔐 Selected Attendee – CRYPTOS 2025 (IIT Bhilai + Decipher.red Labs)
 
----
-
-## 👩‍💻 GitHub Stats
-
-![Somya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somyavats&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somyavats&layout=compact&theme=radical)
 
 ---
 
