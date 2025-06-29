@@ -1,4 +1,4 @@
-# Hi 👋, I'm Somya Vats  
+# Hi , I'm Somya Vats  
 B.Tech CSE Student | Specializing in Data Science
 
 ---
@@ -39,19 +39,6 @@ B.Tech CSE Student | Specializing in Data Science
 
 ---
 
-
-## ✍️ Rando Quote
-
-> "If you're the smartest person in the room, you're in the wrong room."
-
----
-
-## 🔭 Ongoing Work & Research
-
-- EEG-Based Identification of Alexithymia (Neuropsych + AI)  
-- Agrolytics v2: NDVI, satellite imagery, CNN/LSTM for crop classification  
-- Learning MERN Stack, Android Studio, and Google Cloud for full-stack projects  
-- Continuing self-study in Cybersecurity & System Design
 
 ---
 
