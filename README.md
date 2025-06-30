@@ -1,4 +1,4 @@
-# Hi , I'm Somya Vats  
+# Hey there , I'm Somya Vats💜
 B.Tech CSE Student | Specializing in Data Science
 
 ---
@@ -6,7 +6,7 @@ B.Tech CSE Student | Specializing in Data Science
 ## 💫 About Me:
 🎓 B.Tech CSE student at UPES | Passionate about AI, ML, and impactful tech.
 
-🚀 Building solutions in Python, React, and Flutter — from neuro-AI to fintech frontends.
+🚀 Building solutions in Python, React, and Flutter — from neuro-AI, agents to fintech frontends.
 
 🏆 Hackathon winner | IEEE-CIS Core | Student Dev at OPEN Community
 
