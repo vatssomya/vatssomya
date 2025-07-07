@@ -8,7 +8,7 @@ B.Tech CSE Student | Specializing in Data Science
 
 🚀 Building solutions in Python, React, and Flutter — from neuro-AI, agents to fintech frontends.
 
-🏆 Hackathon winner | IEEE-CIS Core | Student Dev at OPEN Community
+🏆 Hackathon winner | IEEE-CIS EC | Student Dev at OPEN Community
 
 📚 Active researcher in XAI & cognitive health | Explorer of full-stack & cybersecurity.
 
